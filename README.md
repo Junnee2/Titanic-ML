@@ -1,5 +1,4 @@
-<img width="854" height="688" alt="스크린샷 2026-03-31 160734" src="https://github.com/user-attachments/assets/c294f20f-dc74-4d16-8903-3d909614285d" /># Titanic-ML
-🚢 Titanic Survival Prediction Model
+# 🚢 Titanic Survival Prediction Model
 EDA부터 피처 엔지니어링, 모델링까지 머신러닝 전 과정을 아우르는 골든타임 예측 프로젝트
 <br>
 <br>
